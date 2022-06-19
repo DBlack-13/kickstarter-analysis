@@ -7,7 +7,7 @@ The purpose of this analysis is to help Louise understand what months have shown
 ## Analysis and Challenges
 With the data that we were given, we first had to seperate the data so that we are only focusing on the data related to theater. By doing so we created a Pivot Table of all the data and filtered it to show only what we wanted to see. We wanted to see only the data realted to Theater, more specifically the amount of successful, failed and canceled fundraisers each month. Once we have that data available, we then created a line chart so we can visually see the trends of which month has shown the most success, failed and canceled fundraisers.
 The Line Chart is shown here
-![](../../../../Kickstarter_Challenge/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes vs Launch](Kickstarter_Challenge/resources/Theater_Outcomes_vs_Launch.png)
 The challenges that could have been encountered is not being able to create a pivot table to accurately show the data we are trying to find. Understanding what to place in colums and rows specifically.
 ### Analysis of Outcomes Based on Launch Date
 My first analysis is that there were hardly any theaters that canceled on launch date. The number of failed Theaters has shown to be fairly consistant at about 40 failed each month. Since we want to make sure Louise is successful, we notice that May, June and July are the peak months and those are the months we would want to focus out efforts on when releasing our new play. 
